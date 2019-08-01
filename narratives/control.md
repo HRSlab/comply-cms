@@ -11,9 +11,10 @@ satisfies:
     - CC5.1
     - CC5.2
     - CC5.3
+    - CC1.5
 majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+  - comment: Initial document
+    date: Jun 1 2018
 ---
 
 # Control Environment Narrative
